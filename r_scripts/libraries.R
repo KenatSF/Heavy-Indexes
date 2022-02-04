@@ -1,0 +1,10 @@
+library(dotenv)
+library(zoo)
+library(xts)
+library(dplyr)
+library(energy)
+library(PerformanceAnalytics)
+library(data.table)
+library(corrplot)
+library(anytime)
+
