@@ -19,9 +19,13 @@ For a good investment strategy you must check out some indexes, the question is 
 Applying Network theory, in particular, making use of centrality measures:
 
 * Degree centrality
+![](https://github.com/KenatSF/Heavy-Indexes/blob/main/img/1_degree.png)
 * Betweenness centrality
+![](https://github.com/KenatSF/Heavy-Indexes/blob/main/img/2_betweenness.png)
 * Eigenvector
+![](https://github.com/KenatSF/Heavy-Indexes/blob/main/img/3_eigenvector.png)
 * Pagerank
+![](https://github.com/KenatSF/Heavy-Indexes/blob/main/img/5_clustering.png)
 
 Finally for a better investment strategy you should be aware of the next indexes:
 
@@ -33,7 +37,7 @@ Finally for a better investment strategy you should be aware of the next indexes
 * FTSE MIB - Stock market index for the Borsa Italiana
 * RTSI - Russia Trading System
 
-Note: Every investor must be check out one of the most important indexes:
+Note: Every investor must check out one of the most important indexes:
 * S&P500 - Standard & Poor's 500 Index
 
 
